@@ -1,0 +1,11 @@
+node_modules
+.next
+next-env.d.ts
+*.tsbuildinfo
+
+.vercel
+.env*
+
+# archived / unused sources
+_assets/_old
+public/video/timelapse.mp4

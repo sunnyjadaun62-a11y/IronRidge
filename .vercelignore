@@ -1,0 +1,7 @@
+# raw sources — optimised copies live in public/
+_assets
+node_modules
+.next
+*.tsbuildinfo
+# unused footage
+public/video/timelapse.mp4

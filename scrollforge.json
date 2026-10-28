@@ -1,0 +1,37 @@
+{
+  "slug": "ironridge",
+  "title": "Ironridge Constructions",
+  "tagline": "We build what holds.",
+  "kind": "site",
+  "category": "Construction",
+  "description": "A living construction site as a scroll film. A truck hauls, a loader digs, a tower crane raises a building floor by floor, day turns to night and a blueprint scan reveals the structure. PBR terrain, rigged machines, GTAO and bloom.",
+  "accent": "#f5a524",
+  "tags": [
+    "construction",
+    "PBR",
+    "rigged GLB",
+    "day-to-night"
+  ],
+  "stack": [
+    "Next.js 16",
+    "React 19",
+    "three.js",
+    "GSAP",
+    "Lenis",
+    "Tailwind v4",
+    "gltf-transform",
+    "meshoptimizer"
+  ],
+  "credits": [
+    {
+      "what": "PBR surface textures",
+      "who": "Poly Haven",
+      "license": "CC0 1.0",
+      "href": "https://polyhaven.com"
+    }
+  ],
+  "license": "MIT (code) · assets per credits",
+  "access": "free",
+  "priceLabel": null,
+  "demoUrl": null
+}
